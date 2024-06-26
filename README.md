@@ -1,6 +1,6 @@
 # One-Wok !
 
-FLutter receipts app.
+FLutter recipes app.
 
 ## ScreenShots
 
